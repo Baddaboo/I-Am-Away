@@ -9,6 +9,7 @@ Leaving your computer during the work day is a tricky task. This script uses mac
 I wrote this script in Summer '16 so I wouldn't get GOAT'ed<sup>1</sup> by [@waynecrasta](https://github.com/waynecrasta), [@mikeecb](https://github.com/mikeecb), [@schopra8](https://github.com/schopra8), [@JoshuaChing](https://github.com/joshuaching), [@karanh](https://github.com/karanh), [@allen-gao](https://github.com/allen-gao), [@mitchellgordon95](https://github.com/mitchellgordon95), [@geneyoo](https://github.com/geneyoo), [@sup](https://github.com/sup), and all my other [@Yelp](https://github.com/yelp) friends on 14F. This project was inspired by the [AIM Away Message](https://medium.com/the-romantic-huckster/the-art-of-the-aim-away-message-df732a7df289) and I'm opening it up upon the [death of AIM](https://twitter.com/aim/status/916290747850264577).
 
 These days, I use it when I need to step away from my computer during office hours to let my students know where I am:
+
 ![](Images/tamsg.png)
 
 ## Usage

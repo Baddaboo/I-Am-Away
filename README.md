@@ -26,6 +26,8 @@ These days, I use it when I need to step away from my computer during office hou
 
 ![](Images/unlock.png)
 
+- It's much simpler and easier than [using System Preferences every time you need a break.](http://osxdaily.com/2012/10/21/custom-screen-saver-message-mac-os-x/).
+
 ## Notes & FAQ
 - You may need to set the `Messages` screensaver text to some value to ensure macOS has a value saved for it.
 - **Q: Why is this an Automator script?**

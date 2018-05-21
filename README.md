@@ -4,7 +4,7 @@ Simple, nonintrusive away messages for macOS
 ![](Images/meetingmsg.png)
 
 ## Introduction
-Leaving your computer during the work day is a tricky task. This script uses macOS's the built-in `Message` screensaver to quickly set an away message. It's much simpler and easier than [using System Preferences every time you need a break.](http://osxdaily.com/2012/10/21/custom-screen-saver-message-mac-os-x/)
+Leaving your computer during the work day is a tricky task. This script uses macOS's the built-in `Message` screensaver to quickly set an away message. It's much simpler and easier than [using System Preferences](http://osxdaily.com/2012/10/21/custom-screen-saver-message-mac-os-x/) every time you need a break.
 
 I wrote this script in Summer '16 so I wouldn't get GOAT'ed<sup>1</sup> by [@waynecrasta](https://github.com/waynecrasta), [@mikeecb](https://github.com/mikeecb), [@schopra8](https://github.com/schopra8), [@JoshuaChing](https://github.com/joshuaching), [@karanh](https://github.com/karanh), [@allen-gao](https://github.com/allen-gao), [@mitchellgordon95](https://github.com/mitchellgordon95), [@geneyoo](https://github.com/geneyoo), [@sup](https://github.com/sup), and all my other [@Yelp](https://github.com/yelp) friends on 14F. This project was inspired by the [AIM Away Message](https://medium.com/the-romantic-huckster/the-art-of-the-aim-away-message-df732a7df289) and I'm opening it up upon the [death of AIM](https://twitter.com/aim/status/916290747850264577).
 

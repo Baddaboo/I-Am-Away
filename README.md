@@ -27,7 +27,7 @@ These days, I use it when I need to step away from my computer during office hou
   ![](Images/unlock.png)
 
 ## Notes & FAQ
-- You may need to set the `Messages` screensaver text to some value to ensure macOS has a value saved for it.
+- When you first use this script, you may need to set the `Messages` screensaver text to some value in System Preferences to ensure macOS has some value saved for it.
 - **Q: Why is this an Automator script?**
   - Different versions of macOS have different ways of starting the screensaver. Rather than trying to deal with the nuances of each version, Automator can do this for you.
 - **Q: Did this really stop you from getting GOAT'ed?**

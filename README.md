@@ -15,16 +15,16 @@ These days, I use it when I need to step away from my computer during office hou
 ## Usage
 - Place the script anywhere that's convenient. You can even wrap it in an app and add it to your dock as I do:
 
-![](Images/dock.png)
+  ![](Images/dock.png)
 
 - When you run the script, it will prompt you for an away message:
 
-![](Images/dialog.png)
+  ![](Images/dialog.png)
 
 - Once you click `OK`, the screensaver will automatically start with your message.
 - The Automator script exits, and the screensaver should still work as it normally does, prompting you for a password, if you have one, or unlocking with your Apple Watch:
 
-![](Images/unlock.png)
+  ![](Images/unlock.png)
 
 ## Notes & FAQ
 - You may need to set the `Messages` screensaver text to some value to ensure macOS has a value saved for it.
